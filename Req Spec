@@ -1,0 +1,120 @@
+UI
+--
+
+1. Start Page
+	1. Company name/Logo
+	2. Game name/Logo
+	3. Start button
+	4. Exit button
+
+2. Settings Page
+	1. Audio settings
+	2. Difficulty Level settings (Easy/Normal)
+	3. Player options (Single/Two)
+	4. Back button
+	5. Game Modes (Limited/Unlimited)
+
+3. Game Window
+	1. Text Area [----]
+	2. Display (Cows, Bulls)
+	3. Submit button 
+	4. Pause button
+	5. Countdown
+	6. Hints (Limited)
+	7. Score
+
+4. Score Page
+	1. Rating (stars, msg)
+	2. Score
+	3. Retry button
+	4. Exit button
+
+5. Web Site
+	 
+6. Loading Window
+	1. Game Logo
+	2. Loading bar
+
+7. Pause Window
+	1. Help
+	2. Audio On/off
+	3. Restart button
+	4. Resume button
+	5. Exit button
+
+8. Confirmation Window
+	1. Yes/No option
+	2. Message
+
+9. Two Player Window
+
+10. Level Window
+	1. Level numbers
+	2. Acheived Stars
+	3. Locked/Unlocked levels
+
+Logic
+-----
+
+1. Game Logic
+	1. Find Cows, Bulls
+	2. Attempts countdown
+	3. Scoring 
+	4. Validation
+
+2. Difficulty level
+	1. Easy - Display characters/positions
+	2. Normal - No Display
+
+3. Player Options
+	1. Single Player (vs PC)
+	2. Two Player
+
+4. Share Scores
+	1. FB, Twitter, Instagram
+
+5. Player Profile
+	1. Total score
+	2. Badges (levels)
+	3. Level window (with stars)
+
+6. Audio 
+	1. Background music
+
+7. Miscellaneous
+	1. Reward points
+
+-----------------------------------------------------------------------------
+
+v1.0
+----
+U1.1, U1.2, U1.3, U1.4
+U2.1, U2.2, U2.4
+U3.1, U3.2, U3.3, U3.4, U3.7
+U4.1, U4.2, U4.3, U4.4
+U6.1, U6.2
+U7.1, U7.2, U7.3, U7.4, U7.5
+U8.1, U8.2
+U10.1, U10.2, U10.3
+
+L1.1, L1.2, L1.3, L1.4
+L2.2
+L3.1
+L4.1
+L5.1, L5.2, L5.3
+L6.1
+L7.1
+
+v1.1
+----
+U2.3
+U2.5
+U3.5
+U3.6
+U9
+L2.1
+L3.2
+
+v2.0
+----
+U5
